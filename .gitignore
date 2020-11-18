@@ -5,3 +5,4 @@ vm
 db.sqlite3
 /static
 .DS_Store
+venv.bat
